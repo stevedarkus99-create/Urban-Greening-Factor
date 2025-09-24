@@ -1,0 +1,5 @@
+{
+  "name": "Urban Greening Factor Analyzer",
+  "description": "An AI-powered tool to upload a landscape masterplan, classify surface covers based on Urban Greening Factor categories, and measure their approximate area coverage.",
+  "requestFramePermissions": []
+}
